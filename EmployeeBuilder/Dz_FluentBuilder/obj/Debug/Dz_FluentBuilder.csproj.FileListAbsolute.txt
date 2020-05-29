@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Dz_FluentBuilder\Dz_FluentBuilder\bin\Debug\Dz_FluentBuilder.exe.config
+C:\Users\Admin\source\repos\Dz_FluentBuilder\Dz_FluentBuilder\bin\Debug\Dz_FluentBuilder.exe
+C:\Users\Admin\source\repos\Dz_FluentBuilder\Dz_FluentBuilder\bin\Debug\Dz_FluentBuilder.pdb
+C:\Users\Admin\source\repos\Dz_FluentBuilder\Dz_FluentBuilder\obj\Debug\Dz_FluentBuilder.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dz_FluentBuilder\Dz_FluentBuilder\obj\Debug\Dz_FluentBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dz_FluentBuilder\Dz_FluentBuilder\obj\Debug\Dz_FluentBuilder.exe
+C:\Users\Admin\source\repos\Dz_FluentBuilder\Dz_FluentBuilder\obj\Debug\Dz_FluentBuilder.pdb
